@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jvhluces&theme=dark)](https://git.io/streak-stats)
+
 
 
 
